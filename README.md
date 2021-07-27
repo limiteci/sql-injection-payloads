@@ -1,5 +1,6 @@
 # SQL-injection-payloads
 ### simple markdown-list to operate [SQL injections](https://en.wikipedia.org/wiki/SQL_injection)
+### payloads found in [/payloads](https://github.com/limiteci/sql-injection-payloads/tree/main/payloads) git folder
 
 <p align="center"> 
 <img src="/misc/sql-injection.svg">
